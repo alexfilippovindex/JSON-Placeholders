@@ -1,4 +1,5 @@
-profile: {
-  name: 'Xader',
-  age: 19,
+{
+  "firstName": "Xader",
+  "lastName": "Filippov",
+  "age": 19
 }
