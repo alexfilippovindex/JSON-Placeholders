@@ -1,5 +1,6 @@
 {
-  "firstName": "Xadera",
+  "firstName": "Xader",
   "lastName": "Filippov",
-  "age": 19
+  "age": 19,
+  "position": "Frontend Developer"
 }
